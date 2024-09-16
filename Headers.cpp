@@ -1,0 +1,13 @@
+#include<iostream>
+#include<stdio.h>
+#include<GL/glut.h>
+#include<GL/gl.h>
+#include<stdlib.h>
+#include<memory.h>
+#include<vector>
+#include<map>
+#include<queue>
+#include<stack>
+#include<algorithm>
+#include<ctime>
+#include<unistd.h>
